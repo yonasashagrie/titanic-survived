@@ -1,7 +1,7 @@
-## titanic-survived
+# titanic-survived
 This repository contains a simple script for predicting survival on the Titanic using logistic regression. The dataset includes both training (train.csv) and test (test.csv) datasets.
 
-# Description
+## Description
 The script (intro.ipynb) performs the following steps:
 
 *Reads the training and test datasets using pandas.
@@ -16,7 +16,7 @@ The script (intro.ipynb) performs the following steps:
 
 Feel free to modify the script or use it as a starting point for more advanced Titanic survival prediction models. If you have any questions or suggestions, please open an issue or submit a pull request. Happy coding!
 
-# Dependencies
+## Dependencies
 *pandas
 *numpy
 *scikit-learn
