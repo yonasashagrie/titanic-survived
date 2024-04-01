@@ -4,9 +4,9 @@ This repository contains a simple script for predicting survival on the Titanic 
 ## Description
 The script (intro.ipynb) performs the following steps:
 
-*Reads the training and test datasets using pandas.
-*Cleans the datasets by removing unnecessary columns and handling missing values.
-*Converts categorical variables into numeric representations.
+**Reads the training and test datasets using pandas.
+**Cleans the datasets by removing unnecessary columns and handling missing values.
+** Converts categorical variables into numeric representations.
 *Splits the training dataset into training and validation sets.
 *Trains a logistic regression model on the training set.
 *Evaluates the model's accuracy on the validation set.
